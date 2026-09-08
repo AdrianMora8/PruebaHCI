@@ -1,8 +1,8 @@
 # PruebaHCI
 
-2. Integrantes:
+## Integrantes
 
-Oscar Riofrio: QA
-Julio Jacho: TESTER
-Cristian Ango: Desarrollador Backed
-Matias Morales: Desarrollador Fronted
+- **Oscar Riofrio** — QA
+- **Julio Jacho** — Tester
+- **Cristian Ango** — Desarrollador Backend
+- **Matias Morales** — Desarrollador Frontend
