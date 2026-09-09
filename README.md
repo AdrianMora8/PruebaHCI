@@ -29,10 +29,52 @@ El prototipo representa el flujo de consulta de disponibilidad, registro, confir
 
 ## Integrantes y aportes
 
-- **Oscar Riofrio:** diseño del prototipo navegable y definición del proceso de validación con usuarios.
-- **Julio Jacho:** análisis del proceso actual y definición de los indicadores de eficiencia.
-- **Cristian Ango:** comparación de mecanismos y formulación de la recomendación final.
-- **Matias Morales:** análisis de usuarios, necesidades y metáforas de interfaz.
+| Integrante | Aporte principal |
+|---|---|
+| **Oscar Riofrio** | Coordinación de la documentación, diseño del prototipo navegable en Figma y definición del protocolo de validación con usuarios. También consolidó la documentación general del repositorio y el registro de tareas del equipo. |
+| **Julio Jacho** | Análisis del proceso actual de agendamiento (AS-IS), identificación de esperas, duplicación de acciones y puntos de fricción, además de la definición de indicadores para evaluar tiempo, pasos, errores y reprocesos. |
+| **Cristian Ango** | Comparación de alternativas de agendamiento mediante una matriz de decisión y elaboración de la recomendación del mecanismo híbrido, considerando las necesidades del centro, la intervención humana y la eficiencia esperada. |
+| **Matias Morales** | Identificación de usuarios y necesidades, análisis de dificultades del proceso actual y definición de metáforas, estados, affordances y criterios de usabilidad para la interfaz. |
+
+## Trazabilidad del trabajo colaborativo
+
+Las siguientes tablas resumen la actividad registrada en GitHub. Se incluyen los Pull Requests relacionados con las actividades consolidadas del proyecto y se omiten los tres primeros Pull Requests de la historia, correspondientes a versiones iniciales o correcciones del trabajo AS-IS.
+
+### Commits relevantes por integrante
+
+| Integrante | Commits y contribución |
+|---|---|
+| **Oscar Riofrio** | [`864c98d`](https://github.com/AdrianMora8/PruebaHCI/commit/864c98d): protocolo de validación; [`4d43a0a`](https://github.com/AdrianMora8/PruebaHCI/commit/4d43a0a): documentación final del proyecto y README. |
+| **Julio Jacho** | [`47bc0dd`](https://github.com/AdrianMora8/PruebaHCI/commit/47bc0dd): análisis AS-IS inicial; [`fca47b6`](https://github.com/AdrianMora8/PruebaHCI/commit/fca47b6): indicadores de eficiencia por operación. |
+| **Cristian Ango** | [`69ec49c`](https://github.com/AdrianMora8/PruebaHCI/commit/69ec49c): matriz de comparación de mecanismos; [`b2a61f3`](https://github.com/AdrianMora8/PruebaHCI/commit/b2a61f3): recomendación final; [`d98f85a`](https://github.com/AdrianMora8/PruebaHCI/commit/d98f85a): registro por tareas. |
+| **Matias Morales** | [`5ea9157`](https://github.com/AdrianMora8/PruebaHCI/commit/5ea9157): usuarios y necesidades; [`25104bd`](https://github.com/AdrianMora8/PruebaHCI/commit/25104bd): metáforas de interfaz. |
+
+### Pull Requests completados
+
+| PR | Responsable | Actividad | Estado |
+|---|---|---|---|
+| [#8](https://github.com/AdrianMora8/PruebaHCI/pull/8) | Oscar Riofrio | Flujo AS-IS | Completado |
+| [#9](https://github.com/AdrianMora8/PruebaHCI/pull/9) | Matias Morales | Usuarios y necesidades | Completado |
+| [#10](https://github.com/AdrianMora8/PruebaHCI/pull/10) | Cristian Ango | Comparación de mecanismos | Completado |
+| [#11](https://github.com/AdrianMora8/PruebaHCI/pull/11) | Oscar Riofrio | Protocolo de validación | Completado |
+| [#16](https://github.com/AdrianMora8/PruebaHCI/pull/16) | Cristian Ango | Recomendación final | Completado |
+| [#17](https://github.com/AdrianMora8/PruebaHCI/pull/17) | Matias Morales | Metáforas de interfaz | Completado |
+| [#18](https://github.com/AdrianMora8/PruebaHCI/pull/18) | Julio Jacho | Indicadores de eficiencia | Completado |
+| [#19](https://github.com/AdrianMora8/PruebaHCI/pull/19) | Cristian Ango | Registro por tareas | Completado |
+| [#20](https://github.com/AdrianMora8/PruebaHCI/pull/20) | Oscar Riofrio | Documentación final del proyecto | Completado |
+
+### Issues cerrados por integrante
+
+| Issue | Responsable | Actividad | Estado |
+|---|---|---|---|
+| [#1](https://github.com/AdrianMora8/PruebaHCI/issues/1) | Julio Jacho | Modelado del flujo AS-IS y fricciones | Cerrado |
+| [#2](https://github.com/AdrianMora8/PruebaHCI/issues/2) | Matias Morales | Usuarios y necesidades | Cerrado |
+| [#3](https://github.com/AdrianMora8/PruebaHCI/issues/3) | Cristian Ango | Comparación de mecanismos | Cerrado |
+| [#4](https://github.com/AdrianMora8/PruebaHCI/issues/4) | Oscar Riofrio | Protocolo de validación con usuarios | Cerrado |
+| [#12](https://github.com/AdrianMora8/PruebaHCI/issues/12) | Cristian Ango | Recomendación final justificada | Cerrado |
+| [#13](https://github.com/AdrianMora8/PruebaHCI/issues/13) | Matias Morales | Metáforas de interfaz | Cerrado |
+| [#14](https://github.com/AdrianMora8/PruebaHCI/issues/14) | Julio Jacho | Indicadores de eficiencia | Cerrado |
+| [#15](https://github.com/AdrianMora8/PruebaHCI/issues/15) | Oscar Riofrio | Prototipo navegable en Figma | Cerrado |
 
 ## Alcance
 
