@@ -1,7 +1,5 @@
 # Actividad 7: Protocolo de validación
 
-**Responsable:** Oscar Riofrio
-
 ## Protocolo
 
 1. **Participantes:** 3 usuarios representativos (P1, P2, P3), idealmente con distinto nivel de familiaridad tecnológica, ya que el centro atiende pacientes de perfiles diversos.

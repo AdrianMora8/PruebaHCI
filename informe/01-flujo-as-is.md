@@ -1,7 +1,5 @@
 # Actividad 1: Análisis del proceso actual (AS-IS)
 
-**Responsable:** Julio Jacho
-
 ## 1.1 Flujo actual
 
 | Paso | Acción actual | Medio | Actor(es) | Información necesaria | Decisión tomada |

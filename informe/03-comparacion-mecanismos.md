@@ -1,7 +1,5 @@
 # Actividad 3: Comparación de mecanismos de agendamiento
 
-**Responsable:** Cristian Ango
-
 ## 3.1 Alternativas consideradas
 
 | Mecanismo | Descripción |
@@ -40,4 +38,4 @@ Escala: 1 (deficiente) a 5 (excelente).
 
 ## 3.4 Selección preliminar
 
-Se selecciona el **mecanismo híbrido** como alternativa factible para el centro (ver justificación completa y evidencia en la Actividad 8 - Recomendación final).
+Se selecciona el **mecanismo híbrido** como alternativa factible para el centro. La Actividad 8 desarrolla la justificación final con base en las necesidades identificadas, la matriz de decisión y los indicadores de eficiencia.

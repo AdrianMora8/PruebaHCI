@@ -1,7 +1,5 @@
 # Actividad 2: Usuarios y necesidades
 
-**Responsable:** Oscar Riofrio
-
 | Usuario | Objetivo | Necesidad | Dificultad actual |
 |---|---|---|---|
 | Paciente | Conseguir una cita en un horario que le sirva, sin fricción. | Saber en tiempo real qué horarios están disponibles y recibir confirmación clara del estado de su cita. | Debe esperar respuesta manual por WhatsApp sin saber cuánto tardará ni si su mensaje se perdió entre otros chats. |
