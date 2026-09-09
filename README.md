@@ -79,3 +79,7 @@ Las siguientes tablas resumen la actividad registrada en GitHub. Se incluyen los
 ## Alcance
 
 El trabajo se limita a la gestión de citas: consulta de disponibilidad, registro, modificación, reagendamiento, cancelación y seguimiento del estado de la solicitud. No incluye historias clínicas ni la gestión administrativa general del centro.
+
+## Reflexión grupal
+
+Distribuimos las 8 actividades en pares por persona, divididas en dos rondas por falta de tiempo para completarlas en una sola sesión; cuando un integrante no estuvo disponible un día, reordenamos su turno sin cambiar su responsabilidad sobre la actividad asignada. Las diferencias se resolvieron mediante revisión cruzada: cada Pull Request fue comentado por un compañero distinto antes de mergear, lo que permitió detectar desde errores puntuales hasta inconsistencias conceptuales, como asegurar que el prototipo, el protocolo de validación y la recomendación final reflejaran el mismo mecanismo híbrido definido en la comparación de mecanismos. Verificamos la coherencia revisando que cada actividad nueva no contradijera lo ya aprobado —por ejemplo, que las metáforas de interfaz y los indicadores de eficiencia se mantuvieran alineados con las necesidades de usuario identificadas al inicio del proyecto. El principal desafío fue de coordinación de horarios entre los cuatro, no de la herramienta en sí.
