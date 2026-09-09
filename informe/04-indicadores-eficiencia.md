@@ -1,7 +1,5 @@
 # Actividad 4: Operacionalizar la eficiencia
 
-**Responsable:** Julio Jacho
-
 **Variable dependiente:** Eficiencia del proceso de agendamiento: grado en que una operación se completa correctamente utilizando menor tiempo y esfuerzo humano, sin incrementar errores ni reprocesos.
 
 | Operación | Inicio | Final | Indicadores seleccionados |

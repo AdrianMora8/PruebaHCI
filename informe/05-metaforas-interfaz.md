@@ -1,7 +1,5 @@
 # Actividad 5: Metáforas de interfaz
 
-**Responsable:** Matias Morales
-
 | Dominio fuente | Elemento digital | Etiqueta o mensaje | Comportamiento | Riesgo |
 |---|---|---|---|---|
 | Agenda de pared del consultorio (organizacional/familiar) | Calendario semanal con casillas por hora y por fisioterapeuta | "Semana del 8 al 14 de septiembre" | Al tocar una casilla libre se abre el formulario de registro; las casillas ocupadas están bloqueadas al tacto. | Un paciente sin experiencia digital puede esperar poder "escribir encima" como en papel, en vez de tocar y navegar a un formulario. |

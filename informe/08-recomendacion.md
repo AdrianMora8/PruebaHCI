@@ -1,7 +1,5 @@
 # Actividad 8: Recomendación final
 
-**Responsable:** Cristian Ango
-
 ## Mecanismo recomendado: Mecanismo híbrido
 
 ## Justificación
