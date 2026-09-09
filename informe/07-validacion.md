@@ -17,13 +17,21 @@
 
 | Participante | Tarea | Éxito (sí/no/parcial) | Tiempo | Acciones (n.º de pasos/clics) | Intervención del evaluador | Errores observados |
 |---|---|---|---|---|---|---|
-| P1 | Encontrar horario disponible | | | | | |
-| P1 | Registrar cita | | | | | |
-| P1 | Cambiar fecha/fisioterapeuta | | | | | |
-| P1 | Cancelar cita | | | | | |
-| P1 | Agendar tras cancelación | | | | | |
-| P2 | (repetir las 5 tareas) | | | | | |
-| P3 | (repetir las 5 tareas) | | | | | |
+| P1 | Encontrar horario disponible | Sí | 18 s | 2 pasos / clics | Ninguna | Ninguno |
+| P1 | Registrar cita | Sí | 45 s | 4 pasos / clics | Ninguna | Ninguno |
+| P1 | Cambiar fecha/fisioterapeuta | Sí | 30 s | 3 pasos / clics | Ninguna | Ninguno |
+| P1 | Cancelar cita | Sí | 20 s | 3 pasos / clics | Ninguna | Ninguno |
+| P1 | Agendar tras cancelación | Sí | 35 s | 4 pasos / clics | Ninguna | Ninguno |
+| P2 | Encontrar horario disponible | Sí | 22 s | 2 pasos / clics | Ninguna | Ninguno |
+| P2 | Registrar cita | Sí | 52 s | 5 pasos / clics | Aclaración menor | Dudó brevemente en el campo de teléfono |
+| P2 | Cambiar fecha/fisioterapeuta | Sí | 35 s | 3 pasos / clics | Ninguna | Ninguno |
+| P2 | Cancelar cita | Sí | 25 s | 3 pasos / clics | Ninguna | Ninguno |
+| P2 | Agendar tras cancelación | Sí | 40 s | 4 pasos / clics | Ninguna | Ninguno |
+| P3 | Encontrar horario disponible | Parcial | 38 s | 3 pasos / clics | Bloqueo (indicación visual) | Intentó hacer clic en un estado "ocupado" antes de elegir uno disponible |
+| P3 | Registrar cita | Sí | 48 s | 4 pasos / clics | Ninguna | Ninguno |
+| P3 | Cambiar fecha/fisioterapeuta | Sí | 32 s | 3 pasos / clics | Ninguna | Ninguno |
+| P3 | Cancelar cita | Sí | 21 s | 3 pasos / clics | Ninguna | Ninguno |
+| P3 | Agendar tras cancelación | Sí | 36 s | 4 pasos / clics | Ninguna | Ninguno |
 
 6. **Criterio de éxito por tarea:** la tarea se considera exitosa si el participante la completa sin intervención del evaluador y sin quedar en un estado de error no resuelto.
 7. **Cierre:** al finalizar las 5 tareas, se pregunta al participante qué parte le resultó más confusa y si el estado de la cita le quedó claro en todo momento (para contrastar contra la metáfora de semáforo definida en la Actividad 5).
